@@ -1,7 +1,8 @@
+# Importing libraries
 import streamlit as st
 
 st.set_page_config(
-    page_title="Kylian's Portfolio",
+    page_title="Kylian's Portfolio"
 )
 
 def introduction():
